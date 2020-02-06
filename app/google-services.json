@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "619573997549",
+    "firebase_url": "https://app-tcc-26e96.firebaseio.com",
+    "project_id": "app-tcc-26e96",
+    "storage_bucket": "app-tcc-26e96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619573997549:android:dc3a527b05bb1b8b8041e4",
+        "android_client_info": {
+          "package_name": "com.thales.poc_tcc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619573997549-pdkgbmlrb834mvsjpj585ha9934khtn3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thales.poc_tcc",
+            "certificate_hash": "bc76d780b78be9de92a1bf1afd1b0019b9bc54c3"
+          }
+        },
+        {
+          "client_id": "619573997549-s6sm0rit13q32a7ghg5css4ufbnp65ov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYAv359LqVrZHtGrWOhYHQTnUuFrMNRTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619573997549-s6sm0rit13q32a7ghg5css4ufbnp65ov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
